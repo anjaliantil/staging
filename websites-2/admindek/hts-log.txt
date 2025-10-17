@@ -1,0 +1,386 @@
+HTTrack3.49-2 launched on Tue, 28 Mar 2023 00:08:41 at https://demo.dashboardpack.com/admindek-html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://demo.dashboardpack.com/admindek-html/ -O "/home/infinitylabs/websites/admindek" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:11:33	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/email-inbox.html (from https://demo.dashboardpack.com/admindek-html/)
+00:11:33	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/auth-lock-screen.html (from https://demo.dashboardpack.com/admindek-html/)
+00:11:33	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/auth-sign-in-social.html (from https://demo.dashboardpack.com/admindek-html/)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/product.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/product-list.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/product-edit.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/product-detail.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/product-cart.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/product-payment.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/preloader.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/bs-grid.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/light-box.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/notify.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/x-editable.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/icon-ion.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/icon-material-design.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/icon-icofonts.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/icon-weather.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/icon-typicons.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/icon-flags.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/timeline.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/timeline-social.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/user-profile.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/user-card.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/fb-wall.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/message.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/gallery-grid.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/gallery-masonry.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/gallery-advance.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/search-result.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/search-result2.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/ace-editor.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/long-press-editor.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/invoice.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/invoice-summary.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/invoice-list.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:19:14	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/index.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:19:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery/js/jquery.min.js
+00:19:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery-ui/js/jquery-ui.min.js
+00:19:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/float/jquery.flot.js
+00:19:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/float/jquery.flot.categories.js
+00:19:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/float/curvedLines.js
+00:19:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/float/jquery.flot.tooltip.min.js
+00:19:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/chartist/js/chartist.js
+00:19:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/serial.js
+00:19:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/amcharts.js
+00:19:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/light.js
+00:19:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/dashboard/custom-dashboard.min.js
+00:20:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/script.min.js
+00:20:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js
+00:20:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/dashboard/crm-dashboard.min.js
+00:20:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/google-maps/gmaps.js
+00:20:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/gauge.js
+00:20:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/pie.min.js
+00:20:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/ammap.min.js
+00:20:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/amchart/usaLow.js
+00:20:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/dashboard/analytic-dashboard.min.js
+00:20:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/prism/custom-prism.js
+00:20:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/modernizr/js/css-scrollbars.js
+00:20:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/i18next-browser-languagedetector/js/i18nextBrowserLanguageDetector.min.js
+00:20:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery-i18next/js/jquery-i18next.min.js
+00:20:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/i18next/js/i18next.min.js
+00:20:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/i18next-xhr-backend/js/i18nextXHRBackend.min.js
+00:20:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/vertical/menu/menu-static.js
+00:20:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/vertical/menu/menu-header-fixed.js
+00:20:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/vertical/menu/menu-compact.js
+00:20:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/vertical/horizontal-layout.min.js
+00:20:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/vertical/menu/menu-sidebar-fixed.js
+00:20:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/vertical/menu/menu-hori-fixed.js
+00:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/wave/jquery.wavify.js
+00:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/wave/TweenMax.min.js
+00:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/owl.carousel/js/owl.carousel.min.js
+00:20:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/todo/todo.js
+00:20:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/widget-statistic.js
+00:20:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/widget-data.js
+00:20:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/excanvas.js
+00:20:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/chart.js/js/Chart.js
+00:20:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/SmoothScroll.js
+00:20:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/knob/jquery.knob.js
+00:20:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/knob/knob-custom-chart.js
+00:20:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/accordion/accordion.js
+00:20:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/jqpagination/jquery.jqpagination.js
+00:20:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/widget/widget-chart.js
+00:20:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/sortable-custom.js
+00:20:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/Sortable/js/Sortable.js
+00:20:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/sweetalert/js/sweetalert.min.js
+00:20:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/modal.js
+00:20:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/classie.js
+00:20:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/bootstrap-growl.min.js
+00:20:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/modalEffects.js
+00:20:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/notification/notification.js
+00:20:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery-bar-rating/js/jquery.barrating.js
+00:20:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/rating.js
+00:20:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/range-slider.js
+00:20:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/seiyria-bootstrap-slider/js/bootstrap-slider.js
+00:20:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/owl-custom.js
+00:20:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/swiper/js/swiper.min.js
+00:20:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/swiper-custom.js
+00:20:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/intro.js/js/intro.js
+00:20:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jstree/js/jstree.min.js
+00:20:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/treeview/jquery.tree.js
+00:20:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/nestable/jquery.nestable.js
+00:20:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/toolbar/jquery.toolbar.min.js
+00:20:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/toolbar/custom-toolbar.js
+00:20:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/nestable/custom-nestable.js
+00:20:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/sessionTimeout/sessionTimeout-custom.js
+00:20:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/session-idle-Timeout/session_timeout.min.js
+00:20:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/session-idle-Timeout/session-idle-Timeout-custom.js
+00:20:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/offline/js/offline.min.js
+00:20:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/offline/offline-custom.js
+00:20:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/animation.js
+00:20:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/icon-modal.js
+00:20:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/switchery/js/switchery.min.js
+00:20:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/bootstrap-tagsinput/js/bootstrap-tagsinput.js
+00:20:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/bootstrap-maxlength/js/bootstrap-maxlength.js
+00:20:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/advance-elements/swithces.js
+00:20:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/form-validation/validate.js
+00:20:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/form-validation/form-validation.js
+00:20:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/advance-elements/moment-with-locales.min.js
+00:20:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/bootstrap-datepicker/js/bootstrap-datepicker.min.js
+00:20:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/advance-elements/bootstrap-datetimepicker.min.js
+00:20:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/bootstrap-daterangepicker/js/daterangepicker.js
+00:20:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datedropper/js/datedropper.min.js
+00:20:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/spectrum/js/spectrum.js
+00:20:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jscolor/js/jscolor.js
+00:20:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery-minicolors/js/jquery.minicolors.min.js
+00:20:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/advance-elements/custom-picker.js
+00:20:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/select2/js/select2.full.min.js
+00:20:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/jquery.quicksearch.js
+00:20:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/bootstrap-multiselect/js/bootstrap-multiselect.js
+00:20:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/multiselect/js/jquery.multi-select.js
+00:20:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/advance-elements/select2-custom.js
+00:20:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/form-masking/jquery.inputmask.js
+00:20:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/form-masking/autoNumeric.js
+00:20:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/form-masking/inputmask.js
+00:21:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery.cookie/js/jquery.cookie.js
+00:21:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery.steps/js/jquery.steps.js
+00:21:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/form-masking/form-mask.js
+00:21:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery-validation/js/jquery.validate.js
+00:21:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net-buttons/js/dataTables.buttons.min.js
+00:21:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/js/jquery.dataTables.min.js
+00:21:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/forms-wizard-validation/form-wizard.js
+00:21:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/js/jszip.min.js
+00:21:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net-buttons/js/buttons.print.min.js
+00:21:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/js/pdfmake.min.js
+00:21:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/js/vfs_fonts.js
+00:21:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net-buttons/js/buttons.html5.min.js
+00:21:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net-bs4/js/dataTables.bootstrap4.min.js
+00:21:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net-responsive/js/dataTables.responsive.min.js
+00:21:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js
+00:21:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/js/data-table-custom.js
+00:21:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/autofill/js/dataTables.select.min.js
+00:21:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/autofill/js/dataTables.autoFill.min.js
+00:21:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/autofill/js/extensions-custom.js
+00:21:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/buttons.flash.min.js
+00:21:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/dataTables.buttons.min.js
+00:21:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/jszip.min.js
+00:21:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/buttons.colVis.min.js
+00:21:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/pdfmake.min.js
+00:21:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/vfs_fonts.js
+00:21:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/buttons/js/extension-btns-custom.js
+00:21:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/colreorder/js/dataTables.colReorder.min.js
+00:21:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/colreorder/js/colreorder-custom.js
+00:21:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/fixed-colums/js/dataTables.fixedColumns.min.js
+00:21:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/fixed-colums/js/fixed-column-custom.js
+00:21:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/fixed-header/js/dataTables.fixedHeader.min.js
+00:21:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/fixed-header/js/fixed-header-custom.js
+00:21:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/key-table/js/dataTables.keyTable.min.js
+00:21:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/key-table/js/key-table-custom.js
+00:21:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/row-reorder/js/dataTables.rowReorder.min.js
+00:21:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/row-reorder/js/row-reorder-custom.js
+00:21:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/responsive/js/dataTables.responsive.min.js
+00:21:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/responsive/js/responsive-custom.js
+00:21:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/scroller/js/dataTables.scroller.min.js
+00:21:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/scroller/js/scroller-custom.js
+00:21:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/select/js/select-custom.js
+00:21:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/data-table/extensions/select/js/dataTables.select.min.js
+00:21:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/js/foo-table-custom.js
+00:21:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/js/footable.min.js
+00:21:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/handsontable/js/handsontable.full.js
+00:21:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/data-operation.js
+00:21:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/rows-cols-table.js
+00:21:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/appearance-table.js
+00:21:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/columns-only.js
+00:21:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/cell-features.js
+00:21:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/store-js/moment.js
+00:21:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/handsontable/js/de.js
+00:21:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/cell-types.js
+00:21:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/chroma.min.js
+00:21:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/rows-only.js
+00:21:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/utilities.js
+00:21:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/handson-table/integration.js
+00:21:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/edit-table/jquery.tabledit.js
+00:21:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/edit-table/editable.js
+00:21:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/chartjs/chartjs-custom.js
+00:21:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/google/js/custom-google-chart.js
+00:21:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/chartlist/js/chartist-plugin-threshold.js
+00:21:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/chartlist/chartlist-custom.js
+00:21:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/float/jquery.flot.pie.js
+00:21:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/raphael/js/raphael.min.js
+00:21:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/morris.js/js/morris.js
+00:21:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/float/float-chart-custom.js
+00:21:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/morris/morris-custom-chart.js
+00:21:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/d3/js/d3.js
+00:21:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/nv-chart/js/stream_layers.js
+00:21:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/nvd3/chart-nvd3.js
+00:21:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/peity/js/jquery.peity.js
+00:22:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/peity/peity-custom-chart.js
+00:22:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/rickshaw/js/rickshaw.js
+00:22:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/rickshow/rickshow-custom-.js
+00:22:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/jquery-sparkline/js/jquery.sparkline.js
+00:22:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/sparkline/chart-sparkline.js
+00:22:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/d3/js/d3.min.js
+00:22:06	Warning: 	HTML file (284 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/default/product.html
+00:22:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/nvd3/js/nv.d3.js
+00:22:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/c3/js/c3.js
+00:22:08	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/default/product.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:22:08	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/css/pcoded-horizontal.min.css (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-fixed.html)
+00:22:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/chart/c3/c3-custom-chart.js
+00:22:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-2.0.2.min.js
+00:22:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/google-maps/google-maps.js
+00:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/gdp-data.js
+00:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-uk-mill-en.js
+00:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-world-mill-en.js
+00:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-us-aea-en.js
+00:22:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-au-mill.js
+00:22:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-de-mill.js
+00:22:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-in-mill.js
+00:22:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-asia-mill.js
+00:22:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/map-vector.js
+00:22:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-us-il-chicago-mill-en.js
+00:22:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/vector-maps/js/jquery-jvectormap-ca-lcc.js
+00:22:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/map-api/map-api.js
+00:22:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://api.tiles.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.js
+00:22:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/location/leaflet-mapbox-gl.js
+00:22:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/common-pages.js
+00:22:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/js/jquery.mousewheel.min.js
+00:22:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/wysiwyg-editor/js/tinymce.min.js
+00:22:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/wysiwyg-editor/wysiwyg-editor.js
+00:22:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/ckeditor/ckeditor.js
+00:22:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/ckeditor/ckeditor-custom.js
+00:22:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/moment/js/moment.min.js
+00:22:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/fullcalendar/js/fullcalendar.min.js
+00:22:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/full-calender/calendar.js
+00:22:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/underscore/js/underscore-min.js
+00:22:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/clndr/js/clndr.js
+00:22:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/clndr-calendar/js/clndr-custom.js
+00:22:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/cropper/js/cropper.js
+00:22:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/file-upload/dropzone-amd-module.min.js
+00:22:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/img/favicon.ico
+00:22:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/pages/cropper/croper.js
+00:22:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/bootstrap.min.js
+00:22:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/bubble.js
+00:22:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/jquery.min.js
+00:22:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/particles.js
+00:22:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/mozaic.js
+00:22:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/jquery.mb.YTPlayer.js
+00:22:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/js/vegas-youtube.js
+00:22:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/img/favicon.ico
+00:22:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/modernizr.custom.js
+00:23:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/jquery.min.js
+00:23:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/bootstrap.min.js
+00:23:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/jquery.easings.min.js
+00:23:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/jquery.ba-cond.min.js
+00:23:19	Warning: 	HTML file (284 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/default/preloader.html
+00:23:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/jquery.slitslider.js
+00:23:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/notifyMe.js
+00:23:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/classie.js
+00:23:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/dialogFx.js
+00:23:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/default/preloader.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:23:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/jquery.countdown.js
+00:23:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/particles.js
+00:23:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/jquery.mCustomScrollbar.js
+00:23:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/main-flat.js
+00:23:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/contact-me.js
+00:23:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/photoswipe-ui-default.js
+00:23:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/main.js
+00:23:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/js/photoswipe.js
+00:23:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/icon/feather/fonts/feather.eot?t=1501841394106
+00:23:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/fonts/fa-brands-400.eot
+00:23:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/fonts/fa-brands-400.eot?
+00:23:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/fonts/fa-regular-400.eot
+00:23:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/fonts/fa-regular-400.eot?
+00:23:32	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/images/Modal/overflow.jpg (from https://demo.dashboardpack.com/admindek-html/default/modal.html)
+00:23:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/fonts/fa-solid-900.eot?
+00:23:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/fonts/fa-solid-900.eot
+00:23:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/icon/themify-icons/fonts/themify.eot?-fvbane
+00:23:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/icon/themify-icons/fonts/themify.eot?
+00:23:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/icon/icofont/fonts/icofont.eot?v=1.0.0-beta
+00:23:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/icon/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+00:23:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/assets/icon/font-awesome/fonts/fontawesome-webfont.eot?
+00:23:43	Warning: 	HTML file (284 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/default/product.html
+00:23:43	Warning: 	HTML file (284 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/default/preloader.html
+00:23:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+00:23:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://demo.dashboardpack.com/admindek-html/files/bower_components/font-awesome/fonts/fontawesome-webfont.eot?
+00:24:08	Error: 	"Forbidden" (403) at link https://cdn.leafletjs.com/leaflet/v1.0.2/leaflet.css (from https://demo.dashboardpack.com/admindek-html/default/location.html)
+00:24:08	Error: 	"Forbidden" (403) at link https://cdn.leafletjs.com/leaflet/v1.0.2/leaflet.js (from https://demo.dashboardpack.com/admindek-html/default/location.html)
+00:24:08	Error: 	"Forbidden" (403) at link https://www.mapbox.com/files/assets/data/realworld.388.js (from https://demo.dashboardpack.com/admindek-html/default/location.html)
+00:24:08	Warning: 	Retry after error -5 (Unable to get server's address: Name or service not known) at link {s}.tile.osm.org/{z}/{x}/{y}.png (from https://demo.dashboardpack.com/admindek-html/default/location.html)
+00:24:08	Warning: 	HTML file (1927 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-bubble.html
+00:24:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-bubble.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:24:09	Warning: 	HTML file (1885 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-flat.html
+00:24:09	Warning: 	HTML file (1927 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-bubble.html
+00:24:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-flat.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:24:10	Warning: 	HTML file (1959 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-image.html
+00:24:10	Warning: 	HTML file (1885 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-flat.html
+00:24:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-image.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:24:11	Warning: 	HTML file (1871 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-mozaic.html
+00:24:11	Warning: 	HTML file (1959 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-image.html
+00:24:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-mozaic.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:24:12	Warning: 	HTML file (2940 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-youtube.html
+00:24:12	Warning: 	HTML file (1871 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-mozaic.html
+00:24:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-youtube.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:24:13	Warning: 	HTML file (2940 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-youtube.html
+00:24:13	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/classie/js/classie.js (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:24:13	Warning: 	HTML file (4229 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index1.html
+00:24:14	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index1.html (from https://demo.dashboardpack.com/admindek-html/default/comming-soon.html)
+00:24:14	Warning: 	HTML file (18093 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index2.html
+00:24:14	Warning: 	HTML file (4229 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index1.html
+00:24:15	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index2.html (from https://demo.dashboardpack.com/admindek-html/default/comming-soon.html)
+00:24:15	Warning: 	HTML file (18093 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index2.html
+00:32:42	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/default/cropped.jpg (from https://demo.dashboardpack.com/admindek-html/default/image-crop.html)
+00:32:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/default/product.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:32:57	Warning: 	HTML file (284 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/default/product.html
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/owl.carousel/css/owl.video.play.png (from https://demo.dashboardpack.com/admindek-html/files/bower_components/owl.carousel/css/owl.carousel.css)
+00:32:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/default/preloader.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:32:57	Warning: 	HTML file (284 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/default/preloader.html
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/images/sort_both.png (from https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/images/sort_asc.png (from https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/images/sort_desc.png (from https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/images/sort_asc_disabled.png (from https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/images/sort_desc_disabled.png (from https://demo.dashboardpack.com/admindek-html/files/bower_components/datatables.net/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/images/sort_both.png (from https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/images/sort_asc.png (from https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/images/sort_desc.png (from https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/images/sort_asc_disabled.png (from https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+00:32:57	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/images/sort_desc_disabled.png (from https://demo.dashboardpack.com/admindek-html/files/assets/pages/foo-table/css/jquery.dataTables.min.css)
+00:32:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link {s}.tile.osm.org/{z}/{x}/{y}.png (from https://demo.dashboardpack.com/admindek-html/default/location.html)
+00:32:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-bubble.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:32:57	Warning: 	HTML file (1927 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-bubble.html
+00:32:57	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-flat.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:32:57	Warning: 	HTML file (1885 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-flat.html
+00:32:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-image.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:32:59	Warning: 	HTML file (1959 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-image.html
+00:32:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-mozaic.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:32:59	Warning: 	HTML file (1871 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-mozaic.html
+00:33:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-youtube.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:33:00	Warning: 	HTML file (2940 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-youtube.html
+00:33:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index1.html (from https://demo.dashboardpack.com/admindek-html/default/comming-soon.html)
+00:33:00	Warning: 	HTML file (4229 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index1.html
+00:33:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index2.html (from https://demo.dashboardpack.com/admindek-html/default/comming-soon.html)
+00:33:00	Warning: 	HTML file (18093 bytes) retransferred due to lack of cache: https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index2.html
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/default/product.html (from https://demo.dashboardpack.com/admindek-html/default/menu-horizontal-static.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/default/preloader.html (from https://demo.dashboardpack.com/admindek-html/default/generic-class.html)
+00:33:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link {s}.tile.osm.org/{z}/{x}/{y}.png (from https://demo.dashboardpack.com/admindek-html/default/location.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-bubble.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-flat.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-image.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-mozaic.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/index-youtube.html (from https://demo.dashboardpack.com/admindek-html/default/error.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index1.html (from https://demo.dashboardpack.com/admindek-html/default/comming-soon.html)
+00:33:37	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/index2.html (from https://demo.dashboardpack.com/admindek-html/default/comming-soon.html)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/fonts/glyphicons-halflings-regular.eot (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/fonts/glyphicons-halflings-regular.eot? (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/fonts/glyphicons-halflings-regular.woff2 (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/fonts/glyphicons-halflings-regular.woff (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/fonts/glyphicons-halflings-regular.ttf (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/fonts/glyphicons-halflings-regular.svg (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/404/1/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/fonts/glyphicons-halflings-regular.eot (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/fonts/glyphicons-halflings-regular.eot? (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/fonts/glyphicons-halflings-regular.woff2 (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/fonts/glyphicons-halflings-regular.woff (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/fonts/glyphicons-halflings-regular.ttf (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/fonts/glyphicons-halflings-regular.svg (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/bootstrap.min.css)
+00:33:37	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/mCSB_buttons.png (from https://demo.dashboardpack.com/admindek-html/files/extra-pages/comming-soon/css/jquery.mCustomScrollbar.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 56 seconds : 1231 links scanned, 1425 files written (66466633 bytes overall) [25432846 bytes received at 17000 bytes/sec], 57640594 bytes transferred using HTTP compression in 1365 files, ratio 32%, 14.2 requests per connection
+(78 errors, 297 warnings, 0 messages)
