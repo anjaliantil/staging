@@ -1,0 +1,82 @@
+HTTrack3.49-2 launched on Sun, 30 Aug 2020 13:36:02 at https://html.cleanui.cloud/versions/menu-left/dashboards-alpha.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://html.cleanui.cloud/versions/menu-left/dashboards-alpha.html -O "/home/team-neha/websites/clean-UI-pro" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:36:07	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.cleanui.cloud/robots.txt (from primary/primary)
+13:40:28	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.cleanui.cloud/ (from https://html.cleanui.cloud/versions/menu-left/extra-plugins-owl-carousel.html)
+13:40:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.cleanui.cloud/ (from https://html.cleanui.cloud/versions/menu-left/extra-plugins-owl-carousel.html)
+13:40:30	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.cleanui.cloud/ (from https://html.cleanui.cloud/versions/menu-left/extra-plugins-owl-carousel.html)
+13:40:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/popper.js/dist/umd/popper.js
+13:40:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery/dist/jquery.min.js
+13:40:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery-ui/jquery-ui.min.js
+13:40:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/bootstrap/dist/js/bootstrap.js
+13:40:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery-mousewheel/jquery.mousewheel.min.js
+13:40:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/spin.js/spin.js
+13:40:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/perfect-scrollbar/js/perfect-scrollbar.jquery.js
+13:40:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/ladda/dist/ladda.min.js
+13:40:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/bootstrap-select/dist/js/bootstrap-select.min.js
+13:40:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/select2/dist/js/select2.full.min.js
+13:40:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery-typeahead/dist/jquery.typeahead.min.js
+13:40:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/html5-form-validation/dist/jquery.validation.min.js
+13:40:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery-mask-plugin/dist/jquery.mask.min.js
+13:40:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/bootstrap-show-password/dist/bootstrap-show-password.min.js
+13:40:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/autosize/dist/autosize.min.js
+13:40:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/tempus-dominus-bs4/build/js/tempusdominus-bootstrap-4.min.js
+13:40:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/moment/min/moment.min.js
+13:40:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/bootstrap-sweetalert/dist/sweetalert.min.js
+13:40:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/fullcalendar/dist/fullcalendar.min.js
+13:40:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/remarkable-bootstrap-notify/dist/bootstrap-notify.min.js
+13:40:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/summernote/dist/summernote.min.js
+13:40:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/owl.carousel/dist/owl.carousel.min.js
+13:40:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/ionrangeslider/js/ion.rangeSlider.min.js
+13:40:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/nestable/jquery.nestable.js
+13:40:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/d3/d3.min.js
+13:40:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/editable-table/mindmup-editabletable.js
+13:40:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/c3/c3.min.js
+13:40:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/chartist/dist/chartist.min.js
+13:40:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/peity/jquery.peity.min.js
+13:40:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery-countTo/jquery.countTo.js
+13:40:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/nprogress/nprogress.js
+13:40:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/chartist-plugin-tooltips-updated/dist/chartist-plugin-tooltip.min.js
+13:40:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jquery-steps/build/jquery.steps.min.js
+13:40:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/chart.js/dist/Chart.bundle.min.js
+13:40:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/dropify/dist/js/dropify.min.js
+13:40:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/d3-dsv/dist/d3-dsv.js
+13:40:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/d3-time-format/dist/d3-time-format.js
+13:40:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/techan/dist/techan.min.js
+13:40:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jqvmap/dist/jquery.vmap.js
+13:40:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/index.js
+13:40:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/jqvmap/dist/maps/jquery.vmap.usa.js
+13:40:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/cleanui/layout/menu-top/index.js
+13:40:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/cleanui/layout/menu-left/index.js
+13:40:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/cleanui/layout/support-chat/index.js
+13:40:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/cleanui/layout/sidebar/index.js
+13:41:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/photos/2.jpeg
+13:41:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/photos/1.jpeg
+13:41:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/photos/4.jpeg
+13:41:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/photos/3.jpeg
+13:41:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/avatars/3.jpg
+13:41:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/photos/5.jpeg
+13:41:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/photos/6.jpeg
+13:41:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/content/hands.png
+13:41:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/avatars/4.jpg
+13:41:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/products/002.jpg
+13:41:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/products/004.jpg
+13:41:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/components/kit/core/img/tf-logo.png
+13:41:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/summernote/dist/font/summernote.eot?1d9aeaaff0a8939558a45be6cd52cd4c
+13:41:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/summernote/dist/font/summernote.ttf?1d9aeaaff0a8939558a45be6cd52cd4c
+13:41:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/owl.carousel/dist/assets/owl.video.play.png
+13:41:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/font-feathericons/dist/fonts/Feather.ttf?sdxovp
+13:41:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/font-feathericons/dist/fonts/Feather.woff?sdxovp
+13:41:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://html.cleanui.cloud/vendors/font-linearicons/fonts/Linearicons-Free.eot?w118d
+13:42:14	Warning: 	HTML file (51 bytes) retransferred due to lack of cache: https://html.cleanui.cloud/
+13:42:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.cleanui.cloud/ (from https://html.cleanui.cloud/versions/menu-left/extra-plugins-owl-carousel.html)
+13:42:15	Warning: 	HTML file (51 bytes) retransferred due to lack of cache: https://html.cleanui.cloud/
+13:43:27	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.cleanui.cloud/ (from https://html.cleanui.cloud/versions/menu-left/extra-plugins-owl-carousel.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 28 seconds : 349 links scanned, 407 files written (24402128 bytes overall) [8153762 bytes received at 18200 bytes/sec], 15624504 bytes transferred using HTTP compression in 349 files, ratio 19%, 9.9 requests per connection
+(3 errors, 68 warnings, 0 messages)

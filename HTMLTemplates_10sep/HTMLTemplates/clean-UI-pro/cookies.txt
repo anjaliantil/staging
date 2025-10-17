@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cleanui.cloud	TRUE	/	FALSE	1999999999	__cfduid	d2f88433f5dd9859202cb85538337e70b1598774763
+html.cleanui.cloud	TRUE	/	FALSE	1999999999	SameSite	Lax
+.datatables.net	TRUE	/	FALSE	1999999999	__cfduid	dd28ee690eee06dc19f8f16e4a1da04dd1598774782
+cdn.datatables.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
